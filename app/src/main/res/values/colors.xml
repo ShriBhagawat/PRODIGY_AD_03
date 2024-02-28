@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#2196F3</color> <!-- Blue -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Darker Blue -->
+    <color name="colorAccent">#FF4081</color> <!-- Pink -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color> <!-- Black -->
+    <color name="textSecondary">#727272</color> <!-- Dark Gray -->
+
+    <!-- Background Colors -->
+    <color name="backgroundPrimary">#FFFFFF</color> <!-- White -->
+    <color name="backgroundSecondary">#E0E0E0</color> <!-- Light Gray -->
+    <color name="backgroundNavy">#232937</color> <!-- Navy Blue -->
+
+
+</resources>
